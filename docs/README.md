@@ -3,7 +3,7 @@ home: true
 heroImage: /assets/img/logo.png
 heroText: 前端项目文档
 tagline: null
-actionText: 快速上手 →
+actionText: 开始 →
 actionLink: /setting/project/
 features:
 - title: 项目配置
