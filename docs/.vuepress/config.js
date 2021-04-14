@@ -1,7 +1,7 @@
 module.exports = {
   title: "前端项目文档",
   description: "前端项目文档",
-  base: "/nongyeweb/",
+  base: "/agriculture/",
   themeConfig: {
     lastUpdated: "上次更新", // string | boolean
     nav: [
