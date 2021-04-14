@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /assets/img/logo.png
-heroText: 前端项目文档 
+heroText: 前端项目文档
 tagline: null
 actionText: 快速上手 →
 actionLink: /setting/project/
