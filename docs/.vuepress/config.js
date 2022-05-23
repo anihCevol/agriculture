@@ -1,8 +1,12 @@
 module.exports = {
+  theme:"reco",
   title: "前端项目文档",
-  description: "前端项目文档",
+  description: "记录工作，记录生活",
   base: "/agriculture/",
   themeConfig: {
+    keyPage: {
+      keys: ['6f63f96063a04ebc9c94d86b290a53a8'], // 1.3.0 版本后需要设置为密文
+    },
     lastUpdated: "上次更新", // string | boolean
     nav: [
       { text: "首页", link: "/" },
