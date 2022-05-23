@@ -34,6 +34,15 @@ module.exports = {
             "/blog/geoserver/g2",
             "/blog/geoserver/g3",
             "/blog/geoserver/g4",
+            "/blog/geoserver/g5",
+            "/blog/geoserver/g6",
+          ],
+        },
+        {
+          title: "QGIS",
+          collapsable: false,
+          children: [
+            "/blog/QGIS/q1",
           ],
         },
       ],
