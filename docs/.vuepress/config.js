@@ -6,7 +6,8 @@ module.exports = {
     lastUpdated: "上次更新", // string | boolean
     nav: [
       { text: "首页", link: "/" },
-      { text: "指南", link: "/setting/project/" },
+      { text: "技术文档", link: "/blog/geoserver/g1" },
+      { text: "开发工具", link: "/setting/utils/" },
       {
         text: "模版",
         items: [
@@ -24,16 +25,28 @@ module.exports = {
       { text: "库", link: "/plugins/" },
     ],
     sidebar: {
-      "/setting/project": [
+      "/blog/": [
+        {
+          title: "geoserver",
+          collapsable: false,
+          children: [
+            "/blog/geoserver/g1",
+            "/blog/geoserver/g2",
+            "/blog/geoserver/g3",
+            "/blog/geoserver/g4",
+          ],
+        },
+      ],
+      "/setting/utils": [
         {
           title: "基础",
           collapsable: false,
           children: [
-            "/setting/project/",
-            "/setting/project/nvm.md",
-            "/setting/project/eslint.md"
-          ]
-        }
+            "/setting/utils/",
+            "/setting/utils/nvm.md",
+            "/setting/utils/eslint.md",
+          ],
+        },
       ],
       "/miniApp/guide/": [
         {

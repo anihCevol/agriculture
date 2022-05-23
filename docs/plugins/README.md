@@ -1,5 +1,6 @@
 # 常用库
 - [momentjs](http://momentjs.cn/)JavaScript 日期处理类库
+- [Day.js](https://dayjs.fenxianglu.cn/)Day.js是一个极简的JavaScript库，可以为现代浏览器解析、验证、操作和显示日期和时间(建议替代momentjs)。
 - [elementUI](https://element.eleme.cn/#/zh-CN)Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
 - [Element Plus](https://element-plus.gitee.io/#/zh-CN)Element Plus，一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库
 - [VuePress](https://vuepress.vuejs.org/zh/) 本网站就是基于它实现的，简单方便的静态网站生成器
