@@ -4,7 +4,7 @@ heroImage: /assets/img/logo.png
 heroText: 前端项目文档
 tagline: null
 actionText: 开始 →
-actionLink: /setting/project/
+actionLink: /blog/geoserver/g1
 features:
 - title: 项目配置
   details: 提供项目开发所需要的开发工具和环境配置，快速入手项目
