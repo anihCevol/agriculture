@@ -4,6 +4,7 @@ module.exports = {
   description: "记录工作，记录生活",
   base: "/agriculture/",
   themeConfig: {
+    subSidebar:"auto",
     keyPage: {
       keys: ['6f63f96063a04ebc9c94d86b290a53a8'], // 1.3.0 版本后需要设置为密文
     },
